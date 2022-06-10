@@ -18,6 +18,7 @@ p {
 	font-weight: 300;
 	color: #4a4a4a;
 	line-height: 24px;
+	text-align: justify;
 }
 a {
 	text-decoration: none!important;
@@ -932,6 +933,23 @@ footer .inner-content p a {
 	text-align: justify;
 }
 
+#face {
+	color: blue;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#insta{
+	color: #C71585;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#whats {
+	color: green;	
+	font-weight: 400;
+	font-style: italic;
+}
 /* Responsive Style */
 @media (max-width: 768px) {
 	.banner .text-content {
